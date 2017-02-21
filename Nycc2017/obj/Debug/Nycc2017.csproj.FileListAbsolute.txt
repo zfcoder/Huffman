@@ -1,0 +1,4 @@
+C:\Users\fail.ziganshin\Documents\Visual Studio 2015\Projects\Nycc2017\Nycc2017\bin\Debug\Nycc2017.dll
+C:\Users\fail.ziganshin\Documents\Visual Studio 2015\Projects\Nycc2017\Nycc2017\bin\Debug\Nycc2017.pdb
+C:\Users\fail.ziganshin\Documents\Visual Studio 2015\Projects\Nycc2017\Nycc2017\obj\Debug\Nycc2017.dll
+C:\Users\fail.ziganshin\Documents\Visual Studio 2015\Projects\Nycc2017\Nycc2017\obj\Debug\Nycc2017.pdb
